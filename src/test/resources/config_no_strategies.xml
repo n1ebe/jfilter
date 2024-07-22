@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<!DOCTYPE config PUBLIC
-        "-//jfilter mapping DTD 1.0//EN"
-        "https://rkonovalov.github.io/jfilter-schema-1.1.dtd">
-<config>
-    <controller class-name="com.jfilter.filter.FileFilterTest">
-
-    </controller>
-</config>
